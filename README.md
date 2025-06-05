@@ -17,7 +17,7 @@ A modern, responsive personal portfolio website built with [React](https://react
 
 ## ✨ Demo
 
-- **[Live Demo on Netlify](#)** <!-- Replace # with your Netlify link -->
+- **[Live Demo on Netlify](https://abdulazizalhassan.netlify.app/)** <!-- Replace # with your Netlify link -->
 - **[GitHub Repository](https://github.com/Abdulazizkarma1/personal-portfolio-website-reactjs-tailwindcss-emailjs)**
 
 ---
